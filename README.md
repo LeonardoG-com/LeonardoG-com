@@ -43,7 +43,7 @@ Sou apaixonado por tecnologia, estou sempre pronto para aprender mais e enfrenta
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats</h3>
+  <h3>* GitHub Stats *</h3>
   <br>
  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-G&show_icons=true&theme=dracula" width="400" />
 
