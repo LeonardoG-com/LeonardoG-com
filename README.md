@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia, estou sempre pronto para aprender mais e enfrenta
 
 <h3 align="left">Contactos!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:leonardomgomes05@gmail.comi)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:leonardomgomes05@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://https://www.instagram.com/_leo05gomes_/)
 
 
