@@ -30,9 +30,7 @@ Sou apaixonado por tecnologia, estou sempre pronto para aprender mais e enfrenta
 
 
 
-<h3 align="left">Tecnologias que estou a aprender!</h3>
-
-<h3 align="left">Tecnologias que estou a aprender!</h3>
+<h3 align="left">Tecnologias que uso/usei</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
